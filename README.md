@@ -28,7 +28,21 @@ column	Type	Description:
 ->Regression: Predict fare, age, etc.
 ->EDA (Exploratory Data Analysis): Age distribution, survival by class, gender-based survival
 ->Feature Engineering: Convert categorical data, handle missing values, etc.
+🧠 Machine Learning Model:
+->Logistic Regression is used as it is suitable for binary classification problems (Survived/Not Survived).
+->It predicts the probability of survival based on inputs like age, sex, and class.
 
+🧪 Steps Followed:
+1.Load and explore the dataset.
+2.Clean the data:
+3.Handle missing values
+4.Convert categorical values (e.g., sex) into numeric
+5.Split data into training and test sets.
+6.Train the Logistic Regression model.
+7.Evaluate the model using:
+8.Accuracy
+9.Confusion Matrix
+10.Classification Report
 
 🔎 Dataset Size:
 ->Rows: ~891 passengers (depending on version)
