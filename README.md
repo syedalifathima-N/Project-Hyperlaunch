@@ -25,11 +25,16 @@ column	Type	Description:
 
 🧠 Common Uses in ML:
 ->Classification: Predict survived (yes/no)
+
 ->Regression: Predict fare, age, etc.
+
 ->EDA (Exploratory Data Analysis): Age distribution, survival by class, gender-based survival
+
 ->Feature Engineering: Convert categorical data, handle missing values, etc.
+
 🧠 Machine Learning Model:
 ->Logistic Regression is used as it is suitable for binary classification problems (Survived/Not Survived).
+
 ->It predicts the probability of survival based on inputs like age, sex, and class.
 
 🧪 Steps Followed:
