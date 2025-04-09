@@ -4,7 +4,7 @@
 
 ->The Titanic dataset comes from the tragic sinking of the RMS Titanic in 1912.
 
-->o develop a machine learning model using Logistic Regression that predicts whether a passenger survived the Titanic shipwreck based on features such as age, gender, and passenger class.
+->to develop a machine learning model using Logistic Regression that predicts whether a passenger survived the Titanic shipwreck based on features such as age, gender, and passenger class.
 
 ->It is available in many ML libraries like Seaborn, Kaggle, and Scikit-learn.
 
